@@ -1,0 +1,3 @@
+cd gpt3-writer-starter
+yarn add next react react-dom
+yarn dev 
